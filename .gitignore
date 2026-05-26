@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary editor files and backups
+*~
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments (just in case you ever build one locally)
+venv/
+env/
+.env
+
+# actual LHS6050 espresso data 
+telcor/
